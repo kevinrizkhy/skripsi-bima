@@ -1,0 +1,122 @@
+Tanggal;Mulai;Selesai;Mata Kuliah;Jurusan;Ruang;Pengawas;ERROR
+01/01/1900;8;10;Matematika Diskret;IT;10316;Liem;
+01/01/1900;8;10;Matematika Diskret;IT;10317;Iwan;
+01/01/1900;8;10;Matematika Diskret;IT;10323;Luci;
+01/01/1900;8;10;Elektrodinamika;FI;9120;Luciana;
+01/01/1900;11;13;Kalkulus 1;MA;9120;Farah;
+01/01/1900;11;13;Kalkulus 1;MA;9121;Reinard;
+01/01/1900;11;13;Kalkulus 1;MA;9122;Raymond;
+01/01/1900;11;13;Pengantar Sistem Cerdas;IT;10323;Risti;
+01/01/1900;11;13;Pengantar Sistem Cerdas;IT;10317;Kris;
+01/01/1900;11;13;PTKI;IT;10316;Joanna;
+01/01/1900;14;16;Kewirush Berbasis Teknologi;IT;9120;Benny;
+01/01/1900;14;16;Kapsel Fisika Medis;FI;9121;Philips;
+02/01/1900;8;10;Kalkulus Vektor;MA;9120;Luciana;
+02/01/1900;8;10;Kalkulus Vektor;MA;9121;Farah;
+02/01/1900;8;10;IMK;IT;10316;Raymond;
+02/01/1900;8;10;IMK;IT;10317;Erwinna;
+02/01/1900;8;10;IMK;IT;10323;Joanna;
+02/01/1900;8;10;Kompetitif 1;IT;9014;Sylvia;
+02/01/1900;11;13;Teknik Presentasi;IT;10316;Chandra;
+02/01/1900;11;13;Teknik Presentasi;IT;10317;Natalia;
+02/01/1900;11;13;Teknik Presentasi;IT;10323;Dharma;
+02/01/1900;11;13;Pengantar Jaringan Komputer;IT;9120;Haryanto;
+02/01/1900;11;13;Pengantar Jaringan Komputer;IT;9121;Mariskha;
+02/01/1900;11;13;Pengantar Jaringan Komputer;IT;9122;Rosa;
+02/01/1900;11;13;Pengantar Jaringan Komputer;IT;9014;Taufik;
+02/01/1900;14;16;Daspro;IT;LAB;Iwan;Bukan dosen programming, Lebih dari jatah, 
+02/01/1900;14;16;Daspro;IT;LAB;Joanna;
+02/01/1900;14;16;Pemodelan untuk Komputasi;IT;10316;Rosa;
+02/01/1900;14;16;Pemodelan untuk Komputasi;IT;10317;Rusli;
+02/01/1900;14;16;Pemodelan untuk Komputasi;IT;10323;Heni;
+02/01/1900;14;16;Elektronika;FI;9120;Liem;
+03/01/1900;8;10;Pemecahan Masalah Matematika;MA;9120;Sylvia;
+03/01/1900;8;10;Pemecahan Masalah Matematika;MA;9121;Luciana;
+03/01/1900;8;10;Pemecahan Masalah Matematika;MA;9122;Philips;
+03/01/1900;8;10;Sistem Operasi;IT;10316;Liem;Lebih dari jatah, 
+03/01/1900;8;10;Sistem Operasi;IT;10317;Mariskha;
+03/01/1900;11;13;Fungsi Kompleks;MA;9120;Husnul;Lebih dari jatah, 
+03/01/1900;11;13;Fungsi Kompleks;MA;9121;Farah;
+03/01/1900;11;13;Sistem Informasi Skala Besar;IT;9122;Liem;
+03/01/1900;14;16;Matematika Dasar;IT;9120;Philips;Lebih dari jatah, 
+03/01/1900;14;16;Matematika Dasar;IT;9121;Mariskha;Lebih dari jatah, 
+03/01/1900;14;16;Matematika Dasar;IT;9122;Rosa;
+03/01/1900;14;16;Komputer dan Masyarakat;IT;10316;Ferry;
+03/01/1900;14;16;Komputer dan Masyarakat;IT;10317;Rusli;
+03/01/1900;14;16;Komputer dan Masyarakat;IT;10323;Risti;Lebih dari jatah, 
+03/01/1900;14;16;Komputer dan Masyarakat;IT;9014;Joanna;
+04/01/1900;8;10;Struktur Diskrit;IT;9120;Anung;
+04/01/1900;8;10;Struktur Diskrit;IT;9121;Joanna;
+04/01/1900;8;10;Struktur Diskrit;IT;9122;Farah;
+04/01/1900;8;10;Komputasi Paralel;IT;LAB;Vania;
+04/01/1900;8;10;Komputasi Paralel;IT;LAB;Pascal;
+04/01/1900;11;13;Etika Profesi;UM;9120;Vania;
+04/01/1900;11;13;Etika Profesi;UM;9121;Joanna;
+04/01/1900;11;13;Teori Peluang;MA;10316;Sylvia;
+04/01/1900;11;13;Teori Peluang;MA;10317;Anung;
+04/01/1900;14;16;PPP Bergerak;IT;10316;Liem;
+04/01/1900;14;16;PPP Bergerak;IT;10317;Chandra;
+04/01/1900;14;16;Proses Stokastik;MA;9120;Sylvia;
+04/01/1900;14;16;Proses Stokastik;MA;9121;Rosa;
+08/01/1900;8;10;Metoda Numerik;MA;10316;Elisati;
+08/01/1900;8;10;Metoda Numerik;MA;10317;Farah;
+08/01/1900;8;10;Penulisan Ilmiah;IT;LAB;Anung;
+08/01/1900;8;10;ASD;IT;LAB;Husnul;
+08/01/1900;8;10;ASD;IT;LAB;Taufik;Bukan dosen programming, Lebih dari jatah, 
+08/01/1900;8;10;ASD;IT;LAB;Joanna;Lebih dari jatah, 
+08/01/1900;10;12;ASD;IT;LAB;Natalia;
+08/01/1900;10;12;ASD;IT;LAB;Erwinna;Bukan dosen programming,
+08/01/1900;10;12;ASD;IT;LAB;Farah;Bukan dosen programming, Lebih dari jatah, 
+08/01/1900;11;13;Keamanan Informasi;IT;9120;Erwinna;
+08/01/1900;11;13;Keamanan Informasi;IT;9121;Natalia;Lebih dari jatah, 
+08/01/1900;11;13;Fisika Dasar;FI;10316;Anung;
+08/01/1900;11;13;Fisika Dasar;FI;10317;Kris;
+08/01/1900;11;13;Fisika Dasar;FI;10323;Raymond;
+08/01/1900;14;16;Manajemen Proyek;IT;10316;Vania;
+08/01/1900;14;16;Manajemen Proyek;IT;10317;Mariskha;Lebih dari jatah, 
+08/01/1900;14;16;Manajemen Proyek;IT;10323;Pascal;
+09/01/1900;8;10;Kontrol Optimum;MA;9120;Risti;Lebih dari jatah, 
+09/01/1900;8;10;Kontrol Optimum;MA;9121;Vania;
+09/01/1900;8;10;AJK 1;IT;9122;Elisati;
+09/01/1900;8;10;AJK 2;IT;LAB;Farah;Lebih dari jatah, 
+09/01/1900;8;10;AJK 2;IT;LAB;Raymond;Bukan dosen programming, Lebih dari jatah, 
+09/01/1900;8;10;AJK 2;IT;LAB;Luciana;
+09/01/1900;11;13;Statistika untuk Komputasi;IT;10316;Mariskha;Lebih dari jatah, 
+09/01/1900;11;13;Statistika untuk Komputasi;IT;10317;Farah;
+09/01/1900;11;13;Statistika untuk Komputasi;IT;10323;Philips;Lebih dari jatah, 
+10/01/1900;8;10;Tosus Sistem Informasi 1;IT;9120;Rosa;Lebih dari jatah, 
+10/01/1900;8;10;Tosus Sistem Informasi 1;IT;9121;Flavi;
+10/01/1900;8;10;Optimasi;MA;9122;Iwan;Lebih dari jatah, 
+10/01/1900;10;12;PBO;IT;LAB;Benny;Bukan dosen programming,
+10/01/1900;10;12;PBO;IT;LAB;Pascal;Lebih dari jatah, 
+10/01/1900;11;13;Tosus IF 1;IT;9120;Raymond;Lebih dari jatah, 
+10/01/1900;14;16;Model Survival;MA;10316;Pascal;
+10/01/1900;14;16;Model Survival;MA;10317;Chandra;
+10/01/1900;14;16;Manajemen Proses Bisnis;IT;10323;Luciana;Lebih dari jatah, 
+11/01/1900;8;10;Sistem e-Commerce;IT;10323;Haryanto;Lebih dari jatah, 
+11/01/1900;8;10;Sistem e-Commerce;IT;10316;Benny;Lebih dari jatah, 
+11/01/1900;8;10;Teori Suku Bunga;MA;10317;Farah;Lebih dari jatah, 
+11/01/1900;8;10;Penambangan Data;IT;9120;Risti;Lebih dari jatah, 
+11/01/1900;11;13;Oracle;IT;LAB;Joanna;Lebih dari jatah, 
+11/01/1900;11;13;Oracle;IT;LAB;Husnul;
+11/01/1900;11;13;Optimasi Portofolio;MA;9120;Sylvia;Lebih dari jatah, 
+11/01/1900;11;13;Material Cerdas;FI;9121;Rusli;Lebih dari jatah, 
+11/01/1900;14;16;Statistika Elementer;MA;9120;Reinard;Lebih dari jatah, 
+11/01/1900;14;16;Statistika Elementer;MA;9121;Dharma;
+11/01/1900;14;16;Statistika Elementer;MA;9122;Kris;
+11/01/1900;14;16;Mekanika 2;FI;10316;Joanna;Lebih dari jatah, 
+12/01/1900;8;10;Persamaan Diferensial Parsial;MA;10316;Mariskha;Lebih dari jatah, 
+12/01/1900;8;10;Persamaan Diferensial Parsial;MA;10323;Liem;
+12/01/1900;8;10;RPL;IT;9120;Natalia;Lebih dari jatah, 
+12/01/1900;8;10;RPL;IT;9121;Dharma;
+12/01/1900;8;10;LBW;IT;LAB;Erwinna;Bukan dosen programming, Lebih dari jatah, 
+12/01/1900;8;10;LBW;IT;LAB;Flavi;Bukan dosen programming, Lebih dari jatah, 
+12/01/1900;8;10;LBW;IT;LAB;Raymond;Lebih dari jatah, 
+12/01/1900;1330;1530;Pemrograman Komputer;IT;LAB;Philips;Bukan dosen programming, Lebih dari jatah, 
+12/01/1900;1330;1530;Pengantar Informatika;IT;9120;Ferry;Lebih dari jatah, 
+12/01/1900;1330;1530;Pengantar Informatika;IT;9121;Rosa;Lebih dari jatah, 
+12/01/1900;1330;1530;Pengantar Informatika;IT;9122;Iwan;Lebih dari jatah, 
+12/01/1900;1330;1530;Pengantar Informatika;IT;10323;Risti;
+;;;;;;;
+BEST : 0.9514747859181732;;;;;;;
+Total kesalahan: 41;;;;;;;
