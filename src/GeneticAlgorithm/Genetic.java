@@ -472,6 +472,7 @@ public class Genetic {
     }
 
     public String bestResult() {
+        System.out.println("errors : " + error_msg.size());
         String result = "";
         result += " =========  HASIL PENJADWALAN  ========= " + "\n";
         result += "No; Mulai; Selesai; Mata Kuliah; Jurusan; Ruangan; Pengawas ;  " + "\n";

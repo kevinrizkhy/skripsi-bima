@@ -199,7 +199,6 @@ public class tester {
             genetic.bestResult();
             System.out.println("EXECUTION TIME : " + Long.toString(processTime) + "s");
             System.out.println("BEST : " + Double.toString(genetic.best_fitness));
-            System.out.println(genetic.error_msg.size());
             toCSV(genetic, generator);
         }
     }
@@ -231,9 +230,9 @@ public class tester {
                 for (int j = 0; j < curr_jadwal.size() - 1; j++) {
                     sb.append(curr_jadwal.get(j) + ";");
                 }
-                sb.append(gen.childs.get(gen.best_generation).get(gen.best_gene)[i] + ";");
-                sb.append(gen.error_msg.get(gen.best_generation).get(gen.best_gene)[i] + "\n");
-                if (gen.error_msg.get(gen.best_generation).get(gen.best_gene)[i].isEmpty()) {
+                sb.append(genetic.childs.get(genetic.best_generation).get(genetic.best_gene)[i]).append(";");
+                sb.append(genetic.error_msg.get(genetic.best_generation).get(genetic.best_gene)[i]).append("\n");
+                if (genetic.error_msg.get(genetic.best_generation).get(genetic.best_gene)[i].isEmpty()) {
                     counter++;
                 }
             }
